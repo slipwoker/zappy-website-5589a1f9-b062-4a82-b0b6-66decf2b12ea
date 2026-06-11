@@ -1,0 +1,79 @@
+# The Brand Voice AI — Generative Engine Optimization Map
+
+> A solo fractional marketing consultant with 20+ years of hands-on business experience helping product-based and founder-led companies build strategic, consistent marketing systems. The brand voice is direct, empathetic, and no-nonsense — speaking to busy business owners who are overwhelmed by marketing chaos. The positioning is anti-tool, anti-generic-AI, and pro-human expertise, emphasizing real-world practicality over theoretical strategy. The consultant's unique edge is deep operational experience across marketing, sales, operations, and fulfillment, allowing them to build systems that actually work in resource-constrained environments.
+
+---
+
+## Pages
+
+### Home
+https://the-brand-voice-ai-5589a1f9.zappy5.app
+Stop drowning in tools and tactics. Get hands-on digital marketing consulting services that build a human-centered system your business can actually run with. Start growing without the noise.
+
+### Services
+https://the-brand-voice-ai-5589a1f9.zappy5.app/services
+Marketing consulting services for product-based and founder-led companies. We build operational systems that connect sales, fulfillment, and brand—so your marketing actually works. See how.
+
+### About
+https://the-brand-voice-ai-5589a1f9.zappy5.app/about
+A fractional marketing consultant who&#39;s led sales, ops, and fulfillment—not just strategy decks. Discover the human expertise behind marketing consulting SEO that puts practicality first.
+
+### Contact
+https://the-brand-voice-ai-5589a1f9.zappy5.app/contact
+Ready to replace marketing overwhelm with a system built for the real world? Reach out for digital marketing consulting services that respect your time and your team. Start the conversation.
+
+## Legal & Policy
+
+### Privacy Policy
+https://the-brand-voice-ai-5589a1f9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://the-brand-voice-ai-5589a1f9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://the-brand-voice-ai-5589a1f9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://the-brand-voice-ai-5589a1f9.zappy5.app/contact
+- Endpoint: https://the-brand-voice-ai-5589a1f9.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About The Brand Voice AI
+A solo fractional marketing consultant with 20+ years of hands-on business experience helping product-based and founder-led companies build strategic, consistent marketing systems. The brand voice is direct, empathetic, and no-nonsense — speaking to busy business owners who are overwhelmed by marketing chaos. The positioning is anti-tool, anti-generic-AI, and pro-human expertise, emphasizing real-world practicality over theoretical strategy. The consultant's unique edge is deep operational experience across marketing, sales, operations, and fulfillment, allowing them to build systems that actually work in resource-constrained environments.
+
+## Target Audience
+- DTC brands, manufacturers, printers and print service providers, product-based businesses, founder-led companies with deep expertise but inconsistent marketing
+- DTC Brand Leaders
+- Product Innovators
+- Print Industry Champions
+
+## Industry
+Marketing Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://the-brand-voice-ai-5589a1f9.zappy5.app/sitemap.xml
+- Robots: https://the-brand-voice-ai-5589a1f9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://the-brand-voice-ai-5589a1f9.zappy5.app/llms-full.txt
