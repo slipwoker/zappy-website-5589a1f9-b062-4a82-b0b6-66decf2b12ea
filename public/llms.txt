@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://the-brand-voice-ai-5589a1f9.zappy5.app
+https://example.com
 Stop drowning in tools and tactics. Get hands-on digital marketing consulting services that build a human-centered system your business can actually run with. Start growing without the noise.
 
 ### Services
-https://the-brand-voice-ai-5589a1f9.zappy5.app/services
+https://example.com/services
 Marketing consulting services for product-based and founder-led companies. We build operational systems that connect sales, fulfillment, and brand—so your marketing actually works. See how.
 
 ### About
-https://the-brand-voice-ai-5589a1f9.zappy5.app/about
+https://example.com/about
 A fractional marketing consultant who&#39;s led sales, ops, and fulfillment—not just strategy decks. Discover the human expertise behind marketing consulting SEO that puts practicality first.
 
 ### Contact
-https://the-brand-voice-ai-5589a1f9.zappy5.app/contact
+https://example.com/contact
 Ready to replace marketing overwhelm with a system built for the real world? Reach out for digital marketing consulting services that respect your time and your team. Start the conversation.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://the-brand-voice-ai-5589a1f9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://the-brand-voice-ai-5589a1f9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://the-brand-voice-ai-5589a1f9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://the-brand-voice-ai-5589a1f9.zappy5.app/contact
-- Endpoint: https://the-brand-voice-ai-5589a1f9.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Marketing Consulting
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://the-brand-voice-ai-5589a1f9.zappy5.app/sitemap.xml
-- Robots: https://the-brand-voice-ai-5589a1f9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://the-brand-voice-ai-5589a1f9.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
