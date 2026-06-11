@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: hello@thebrandvoiceai.com
+- Phone: 7043050675
+- Phone (tel): tel:7043050675
+- Address: 625 Wiley Ct, CANTON, GA, 30115, United States
 
 ### Contact form
 - URL: https://example.com/contact
